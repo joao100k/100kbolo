@@ -10,6 +10,6 @@ function draw() {
 
   }
   
-  fill("red");
-  stroke("blue");
+  fill("black");
+  stroke("pink");
 }
